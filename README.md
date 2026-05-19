@@ -62,8 +62,8 @@ Currently targeting **remote SDE, AI/ML, and backend roles** — internships ava
 | **Languages** | Python · Java · JavaScript · SQL · COBOL |
 | **AI / ML** | LangGraph · Llama 3.1 · RAG · HuggingFace · Sentence Transformers · TensorFlow · PyTorch · Scikit-Learn · ChromaDB |
 | **Backend** | FastAPI · Node.js · Express · RESTful APIs |
-| **Frontend** | React · HTML/CSS · JavaScript |
-| **Databases** | ChromaDB (Vector DB) · PostgreSQL · MongoDB · MySQL · IBM DB2 |
+| **Frontend** | React · Next.js · TypeScript · TailwindCSS |
+| **Databases** | ChromaDB (Vector DB) · PostgreSQL · MongoDB · MySQL · IBM DB2 · Supabase |
 | **CS Fundamentals** | OS · DBMS · CN · SDLC · OOP · DSA |
 | **DevOps & Tools** | Git · Docker · Linux · IBM z/OS · JCL · REXX |
 
@@ -91,11 +91,6 @@ A **6-agent LLM pipeline** that mines job descriptions, maps extracted skills ag
 - 200+ skills mapped across 10 categories
 - Fully automated report generation against accreditation benchmarks
 
-<!-- Replace YOUR_REPO_NAME with actual repo name once pushed -->
-<!--
-[![SkillSync](https://github-readme-stats.vercel.app/api/pin/?username=avishkar-ladhe&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/avishkar-ladhe/YOUR_REPO_NAME)
--->
-
 ---
 
 ### SmartDetect — Multi-Factor Behavioral Authentication Engine
@@ -107,17 +102,21 @@ A **4-factor behavioral auth system** — face recognition, voice verification, 
 - RESTful API with clean integration contract
 - Production-ready architecture: stateless endpoints, MongoDB persistence
 
-<!-- Replace YOUR_REPO_NAME with actual repo name once pushed -->
-<!--
-[![SmartDetect](https://github-readme-stats.vercel.app/api/pin/?username=avishkar-ladhe&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/avishkar-ladhe/YOUR_REPO_NAME)
--->
-
 ---
 
-### InsightHub — Automated ML Preprocessing Pipeline
-> `Python` · `Pandas` · `Scikit-Learn` · `NumPy`
+### InsightHub — AI-Powered Data Preparation Platform
+> `Python` · `FastAPI` · `Next.js 14` · `TypeScript` · `Scikit-Learn` · `Supabase` · `TailwindCSS`
 
-End-to-end automated ML pipeline with KNN imputation, outlier removal, and categorical encoding. Includes an **automatic model class recommender** that selects classification, regression, or clustering based on dataset shape and characteristics.
+A **full-stack ML data preparation platform** — upload raw, messy datasets (CSV, Excel, JSON, or bulk ZIP) and get back a clean, processed dataset with zero manual effort. The platform profiles every column, recommends the optimal preprocessing strategy, and runs the full pipeline with per-column granular control.
+
+- **Smart Imputation** — median, mean, KNN, MICE (IterativeImputer), regression, Random Forest
+- **Outlier Handling** — Z-score, IQR, Winsorize, **Isolation Forest** (multivariate)
+- **Indian Data Validation** — Aadhaar (Verhoeff checksum), PAN, phone, email, Age–DOB cross-check
+- **AutoML endpoint** — trial RandomForest (classifier or regressor) with accuracy, F1, RMSE, R²
+- **13 REST API endpoints** — full Swagger docs at `/docs`
+- **Encoding & Scaling** — binary, one-hot, ordinal, frequency · StandardScaler, MinMaxScaler, RobustScaler
+
+[![InsightHub](https://github-readme-stats.vercel.app/api/pin/?username=avishkar-ladhe&repo=InsightHub&theme=tokyonight&hide_border=true)](https://github.com/avishkar-ladhe/InsightHub)
 
 ---
 
