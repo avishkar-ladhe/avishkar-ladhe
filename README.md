@@ -1,15 +1,17 @@
-<!-- TYPING ANIMATION HEADER -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Avishkar+%F0%9F%91%8B;SDE+%7C+AI+%2F+ML+Engineer+%7C+Builder;LangGraph+%E2%80%A2+RAG+%E2%80%A2+FastAPI+%E2%80%A2+React;Turning+ideas+into+deployable+systems;Open+to+Remote+Roles+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Avishkar+Ladhe+%7C+SDE+%2B+AI%2FML+Engineer;Building+LLM+pipelines+%26+backend+systems;Hackathon+Winner+%C2%B7+Open+to+Remote" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- PROFILE VIEWS + OPEN TO WORK BADGES -->
+<!-- STATUS BADGES -->
 <p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Remote-22c55e?style=flat-square&logo=checkmarx&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-9.05%2F10-6E40C9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Xenia%20Hackathon-Winner%202026-gold?style=flat-square" />
+  <img src="https://img.shields.io/badge/SIH-Top%2045%20of%20900%2B-orange?style=flat-square" />
   <img src="https://komarev.com/ghpvc/?username=avishkar-ladhe&color=6E40C9&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Remote%20Roles-22c55e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-orange?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -27,126 +29,121 @@
 
 ---
 
-## 🙋 About Me
+## About
 
-```python
-avishkar = {
-    "university": "VIIT Pune (B.Tech Computer Engineering, 2027)",
-    "cgpa": 9.05,
-    "focus": ["Multi-Agent LLM Systems", "RAG Architectures", "Full-Stack APIs"],
-    "looking_for": "Remote SDE | AI/ML | Backend roles",
-    "building_with": ["Python", "LangGraph", "FastAPI", "React", "Node.js"],
-    "fun_fact": "I build systems that replace real manual workflows — not just demos."
-}
-```
+I'm a CS undergrad at VIIT Pune who builds things that actually work in production — not just Colab notebooks.
 
-I'm a final-year CS student who builds systems that actually *do* things.  
-Whether it's a **6-agent LLM pipeline** processing thousands of job descriptions or a **FastAPI-backed auth engine** using behavioral biometrics — I care about shipping things that are measurable, deployable, and work in production.
+My projects tend to be **systems**: multi-agent LLM pipelines, behavioral auth engines, automated ML preprocessors. I care about clean APIs, measurable outcomes, and shipping code that someone else can actually run.
 
-Currently targeting: **SDE, Backend, AI/ML, and Full-Stack remote roles.**
+Strong in Gen AI, ML/DL, Java, OS, DBMS, CN, and SDLC. Comfortable on both the model side and the backend side. Looking for teams that move fast and care about craft.
+
+Currently targeting **remote SDE, AI/ML, and backend roles** — internships available immediately, full-time from mid-2027.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-<!-- SKILL ICONS — visual icon grid from skillicons.dev -->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,fastapi,express&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,fastapi,nodejs,express&perline=7" />
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mongodb,postgres,mysql,git&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,mongodb,postgres,mysql,git&perline=7" />
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,linux,vscode&perline=7" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,linux,vscode&perline=7" />
 </p>
 
 <details>
-<summary><b>📋 Full Stack Breakdown</b></summary>
+<summary><b>Full stack breakdown</b></summary>
 <br/>
 
 | Layer | Technologies |
 |---|---|
 | **Languages** | Python · Java · JavaScript · SQL · COBOL |
-| **AI / ML** | LangGraph · Llama 3.1 · RAG · HuggingFace · Sentence Transformers · TensorFlow · PyTorch · Scikit-Learn |
+| **AI / ML** | LangGraph · Llama 3.1 · RAG · HuggingFace · Sentence Transformers · TensorFlow · PyTorch · Scikit-Learn · ChromaDB |
 | **Backend** | FastAPI · Node.js · Express · RESTful APIs |
 | **Frontend** | React · HTML/CSS · JavaScript |
-| **Databases** | ChromaDB (Vector DB) · PostgreSQL · MongoDB · MySQL |
+| **Databases** | ChromaDB (Vector DB) · PostgreSQL · MongoDB · MySQL · IBM DB2 |
+| **CS Fundamentals** | OS · DBMS · CN · SDLC · OOP · DSA |
 | **DevOps & Tools** | Git · Docker · Linux · IBM z/OS · JCL · REXX |
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## Achievements
 
-<!-- STATS CARDS — side by side -->
+| Award | Event |
+|---|---|
+| 🥇 **Winner** | Xenia Hackathon 2026 |
+| 🎯 **Top 45 / 900+ teams** | Smart India Hackathon (SIH) — National Shortlist |
+
+---
+
+## Featured Projects
+
+### SkillSync — RAG-Based Curriculum Gap Analyzer
+> `Python` · `LangGraph` · `Llama 3.1 (8B)` · `ChromaDB` · `Sentence Transformers`
+
+A **6-agent LLM pipeline** that mines job descriptions, maps extracted skills against university curriculum, and auto-generates compliance reports against 15 NBA/AICTE/UGC accreditation standards — replacing weeks of manual analyst work with a single pipeline run.
+
+- Hybrid two-pass RAG with cosine similarity scoring (>0.70 matched / 0.45–0.70 partial / <0.45 gap)
+- 200+ skills mapped across 10 categories
+- Fully automated report generation against accreditation benchmarks
+
+<!-- Replace YOUR_REPO_NAME with actual repo name once pushed -->
+<!--
+[![SkillSync](https://github-readme-stats.vercel.app/api/pin/?username=avishkar-ladhe&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/avishkar-ladhe/YOUR_REPO_NAME)
+-->
+
+---
+
+### SmartDetect — Multi-Factor Behavioral Authentication Engine
+> `Python` · `FastAPI` · `MongoDB` · `OpenCV` · `Scikit-Learn`
+
+A **4-factor behavioral auth system** — face recognition, voice verification, keystroke dynamics, and cursor analysis — fused into a single weighted risk score. Deployed as drop-in FastAPI endpoints.
+
+- ROC-AUC threshold calibration per factor
+- RESTful API with clean integration contract
+- Production-ready architecture: stateless endpoints, MongoDB persistence
+
+<!-- Replace YOUR_REPO_NAME with actual repo name once pushed -->
+<!--
+[![SmartDetect](https://github-readme-stats.vercel.app/api/pin/?username=avishkar-ladhe&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/avishkar-ladhe/YOUR_REPO_NAME)
+-->
+
+---
+
+### InsightHub — Automated ML Preprocessing Pipeline
+> `Python` · `Pandas` · `Scikit-Learn` · `NumPy`
+
+End-to-end automated ML pipeline with KNN imputation, outlier removal, and categorical encoding. Includes an **automatic model class recommender** that selects classification, regression, or clustering based on dataset shape and characteristics.
+
+---
+
+### DataGuard-MF — Enterprise Mainframe Data Integrity Checker
+> `COBOL` · `IBM DB2` · `JCL` · `REXX` · `IBM z/OS`
+
+Production-style mainframe batch program with record-level validation across enterprise datasets, DB2 error logging with COMMIT/ROLLBACK atomicity, and full build lifecycle automation via REXX — Compile → Link-Edit → DB2 Bind → Execute in one job.
+
+Built during VIIT's IBM mainframe curriculum — rare hands-on z/OS experience for an undergrad.
+
+---
+
+## GitHub Stats
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=avishkar-ladhe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkar-ladhe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
-<!-- STREAK STATS -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=avishkar-ladhe&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=avishkar-ladhe&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=4" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<!-- PROJECT CARDS using github-readme-stats repo-card — replace with your actual repo names once pushed -->
-
-### 🔗 SkillSync — RAG-Based Curriculum Gap Analyzer
-> `Python` `LangGraph` `Llama 3.1 (8B)` `ChromaDB` `Sentence Transformers`
-
-A **6-agent LLM pipeline** that mines thousands of JDs, maps skills against university curriculum, and auto-generates compliance reports against **15 NBA/AICTE/UGC accreditation standards** — replacing weeks of manual analyst work with a single pipeline run.
-
-✅ Hybrid two-pass RAG · 200+ skills across 10 categories · Cosine similarity scoring (>0.70 / 0.45–0.70 / <0.45)
-
----
-
-### 🔐 SmartDetect — Multi-Factor Behavioral Authentication
-> `Python` `FastAPI` `MongoDB` `OpenCV` `Scikit-Learn`
-
-A **4-factor behavioral auth engine** — face recognition + voice verification + keystroke dynamics + cursor analysis — fused into one weighted risk score, deployed as drop-in FastAPI endpoints.
-
-✅ ROC-AUC threshold calibration · RESTful API · Production-ready integration contract
-
----
-
-### 🧠 InsightHub — Automated Data Preprocessing & ML Recommender
-> `Python` `Pandas` `Scikit-Learn` `NumPy`
-
-End-to-end automated ML pipeline: KNN imputation, outlier removal, categorical encoding, and an **automatic model class recommender** that picks classification/regression/clustering for you.
-
-✅ Datasets up to 1,000 rows × 25 columns · No-code SQL interface for non-technical users
-
----
-
-### 🏭 DataGuard-MF — Enterprise Data Integrity Checker
-> `COBOL` `IBM DB2` `JCL` `REXX` `IBM z/OS`
-
-Production-style mainframe batch program doing record-level validation across enterprise datasets, DB2 error logging with COMMIT/ROLLBACK atomicity, and full build lifecycle automation via REXX.
-
-✅ Compile → Link-Edit → DB2 Bind → Execute — all in one REXX-driven job
-
----
-
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=avishkar-ladhe&theme=tokyo-night&hide_border=true&area=true" />
@@ -154,49 +151,37 @@ Production-style mainframe batch program doing record-level validation across en
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
-<!-- Snake animation — requires GitHub Action setup. See setup guide below. -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/avishkar-ladhe/avishkar-ladhe/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
-## 🏅 Achievements
+## Currently
 
-| 🏆 Award | 📍 Event |
-|---|---|
-| 🥇 **Winner** | Xenia Hackathon 2026 |
-| 🎯 **Top 45 / 900+ teams** | Smart India Hackathon (SIH) — National Shortlist |
-
----
-
-## 📍 Currently Working On
-
-- 🔨 Pushing projects to GitHub with proper READMEs and commit history  
-- 📚 Deepening LangGraph + RAG architecture skills  
-- 🌐 Building a portfolio site  
-- 💼 Exploring remote-first SDE, AI/ML, and backend opportunities  
+- Pushing all projects to GitHub with READMEs, demo videos, and clean commit history
+- Deepening LangGraph multi-agent architecture and production RAG patterns
+- Building a portfolio site to host live project demos
+- Actively looking for remote SDE, AI/ML, and backend roles
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-If you're building something interesting or looking for a remote developer who ships and takes ownership — I'd genuinely love to talk.
+If you're building something interesting or need someone who ships and takes ownership — I'd genuinely love to talk.
 
 <p align="center">
   <a href="https://linkedin.com/in/avishkar-ladhe">
-    <img src="https://img.shields.io/badge/Let's%20connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:avishkarladhe0@gmail.com">
-    <img src="https://img.shields.io/badge/Drop%20me%20an-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Drop%20me%20a%20line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <sub>📍 Pune, India · 🌍 Open to remote worldwide · 🎓 Graduating June 2027 · 💼 Internships available sooner</sub>
+  <sub>📍 Pune, India · Open to remote worldwide · B.Tech CE @ VIIT Pune (2027) · Internships available now</sub>
 </p>
